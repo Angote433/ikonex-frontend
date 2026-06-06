@@ -63,11 +63,7 @@ const btnStyle = {
     border: 'none', padding: '8px 16px',
     borderRadius: '4px', cursor: 'pointer', marginRight: '8px'
 };
-const cancelBtnStyle = {
-    backgroundColor: '#757575', color: '#fff',
-    border: 'none', padding: '8px 16px',
-    borderRadius: '4px', cursor: 'pointer'
-};
+
 const editBtnStyle = {
     backgroundColor: '#1565c0', color: '#fff',
     border: 'none', padding: '4px 10px',
@@ -94,14 +90,5 @@ const trStyle = {
 const tdStyle = {
     padding: '10px 12px', fontSize: '14px'
 };
-const formContainerStyle = {
-    maxWidth: '480px', margin: '0 auto'
-};
-const fieldStyle = {
-    marginBottom: '16px', display: 'flex',
-    flexDirection: 'column', gap: '4px'
-};
-const inputStyle = {
-    padding: '8px', border: '1px solid #bdbdbd',
-    borderRadius: '4px', fontSize: '14px'
-};
+
+

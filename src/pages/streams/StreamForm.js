@@ -100,32 +100,7 @@ const cancelBtnStyle = {
     border: 'none', padding: '8px 16px',
     borderRadius: '4px', cursor: 'pointer'
 };
-const editBtnStyle = {
-    backgroundColor: '#1565c0', color: '#fff',
-    border: 'none', padding: '4px 10px',
-    borderRadius: '4px', cursor: 'pointer', marginRight: '6px'
-};
-const deleteBtnStyle = {
-    backgroundColor: '#c62828', color: '#fff',
-    border: 'none', padding: '4px 10px',
-    borderRadius: '4px', cursor: 'pointer'
-};
-const tableStyle = {
-    width: '100%', borderCollapse: 'collapse'
-};
-const thRowStyle = {
-    backgroundColor: '#1a237e'
-};
-const thStyle = {
-    color: '#fff', padding: '10px 12px',
-    textAlign: 'left', fontSize: '14px'
-};
-const trStyle = {
-    borderBottom: '1px solid #e0e0e0'
-};
-const tdStyle = {
-    padding: '10px 12px', fontSize: '14px'
-};
+
 const formContainerStyle = {
     maxWidth: '480px', margin: '0 auto'
 };
